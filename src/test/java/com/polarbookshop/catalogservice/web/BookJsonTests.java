@@ -36,7 +36,8 @@ public class BookJsonTests {
                     "isbn": "1234567890",
                     "title": "Title",
                     "author": "Author",
-                    "price": 9.90
+                    "price": 9.90,
+                    "publisher": "Publisher"
                 }
                 """;
         Assertions.assertThat(json.parse(content))
