@@ -1,5 +1,6 @@
-package com.polarbookshop.catalogservice.domain;
+package com.polarbookshop.catalogservice.parcers;
 
+import com.polarbookshop.catalogservice.parcers.Writer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

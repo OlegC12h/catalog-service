@@ -1,7 +1,5 @@
 package com.polarbookshop.catalogservice.parcers;
 
-import com.polarbookshop.catalogservice.domain.Parser;
-import com.polarbookshop.catalogservice.domain.ParserRegistrator;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;
